@@ -3,4 +3,4 @@
 
 - 🔭 I'm currently working on cloud computing and data science projects.
 - 🌱  Previously worked as a Machine Learning Engineer.
-- 👯 I’m looking to connected with like minded Data Scientists. 
+- 👯 I’m looking to connect with like minded Data Scientists. 
